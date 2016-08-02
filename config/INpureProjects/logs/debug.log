@@ -35,7 +35,6 @@ Found creative tab: transportation
 Found creative tab: brewing
 Found creative tab: redstone
 Found creative tab: tabMobDropCrops
-Found creative tab: Weather2
 Setting up ForgeMicroblock Library...
 Loading table of contents for module: custom_nei_filters, 1.0, Author: denoflionsx
 Bootstrap setting found. Loading: Bootstrap.js
@@ -67,8 +66,8 @@ Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
 Loading: ThermalExpansion.js
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: ImmersiveEngineering:stoneDecoration_4
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:stoneDecoration_4
+getRandomMaterial called. Returned: ImmersiveEngineering:storage_1
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:storage_1
 Loading: ExtraUtilities.js
 Loading: BuildCraft.js
 Loading: Bibliocraft.js
