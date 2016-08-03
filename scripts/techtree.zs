@@ -7,22 +7,47 @@
 // ### Metallergy
 
 // TODO remove aluminium smelting
+//furnace.remove(<minecraft:gold_ingot>);
+// alternatively, you can specify the input item
+//furnace.remove(<*>, <minecraft:iron_ore>);
+
 // TODO add graphite rod blueprint recipie
 // TODO Minral deposits bauxite, tungston
 // TODO grinding
-// TODO Arc Furnace
+
+// # quartz and coke power into Si2 and CO2.
+// the silicon smelting is already out?
+furnace.remove(<GalacticraftCore:item.basicItem:2>);
 //Arc Furnace
 //OutputStack, InputStack, SlagOutput, Time in Ticks, Energy per Tick, AdditiveArray, RecipeTypeString //Either create your own NEI pages with custom strings or use original ones
 //mods.immersiveengineering.ArcFurnace.addRecipe(<minecraft:gravel>, <minecraft:dirt> * 9, <ImmersiveEngineering:material:13>, 4600, 3600, [<ImmersiveEngineering:fluidContainers:4>], "Purifying");
-// quartz and coke power into Si2 and CO2.
 mods.immersiveengineering.ArcFurnace.addRecipe(<GalacticraftCore:item.basicItem:2>, <ore:dustQuartz>, <ImmersiveEngineering:material:13>, 4600, 3600, [<ore:dustCoke>], "Purifying");
+
+//Crusher
+//OutputStack1, InputStack, Energy, OutputStack2, OutputStack2Chance //Chance in Decimals
+//mods.immersiveengineering.Crusher.addRecipe(<ImmersiveEngineering:metal> * 8, <ImmersiveEngineering:storage:8>, 8000, <minecraft:iron_ingot>, 0.5);
+//OutputStack
+//mods.immersiveengineering.Crusher.removeRecipe(<minecraft:blaze_powder>);
+//mods.immersiveengineering.Crusher.addRecipe(<ImmersiveEngineering:metal> * 8, <ImmersiveEngineering:storage:8>, 8000, <minecraft:iron_ingot>, 0.5);
+
+//Excavator
+//MineralString, MineralWeight, FailChance, OreStringArray, OreChanceArray, DimensionIDArray, isWhitelistOrBlacklist //true=blacklist; false=whitelist
+//mods.immersiveengineering.Excavator.addMineral("Sediment", 30, 15, ["sand", "sandstone"], [50, 15], [0, 1], false);
+//MineralString
+//mods.immersiveengineering.Excavator.removeMineral("Bauxite");
+//MineralString + OreString, Chance
+//mods.immersiveengineering.Excavator.getMineral("Magnetite").addOre("oreNickel", 0.75);
+//MineralString + OreString
+//mods.immersiveengineering.Excavator.getMineral("Magnetite").removeOre("oreGold");
 
 // ### Organic Chemistry
 
+// # smelting rubber makes pleather not plastic.  Magneticraft Polimerizer is needed for plastic
+furnace.remove(<*>, <ore:itemRubber>);
+furnace.addRecipe(<minecraft:leather>, <ore:itemRubber>);
+
 // # no GC refinery
 recipes.remove(<GalacticraftCore:tile.refinery>);
-
-// TODO add pleather recipie smelted rubber?
 
 // # Hot crude in mag refinary to light oil into Immersive refinary to fuel
 //InputFluid
@@ -32,11 +57,8 @@ recipes.remove(<GalacticraftCore:tile.refinery>);
 //mods.magneticraft.Refinery.addRecipe(<liquid:hotcrude> * 1000, <liquid:sludge> * 400, <liquid:lightoil> * 300, <liquid:naturalgas> * 300);
 //mods.immersiveengineering.Refinery.addRecipe(<liquid:fuel> * 16, <liquid:lightoil> * 8, <liquid:heavyoil> * 8);
 // lightoil in both sides makes fuel
-mods.immersiveengineering.Refinery.addRecipe(<liquid:fuel> * 16, <liquid:lightoil> * 12, <liquid:lava> * 4);
+//mods.immersiveengineering.Refinery.addRecipe(<liquid:fuel> * 16, <liquid:lightoil> * 12, <liquid:lava> * 4);
 
 // # biodiesel to fuel and natralgas
 mods.magneticraft.Refinery.addRecipe(<liquid:biodiesel> * 1000, <liquid:sludge> * 400, <liquid:fuel> * 300, <liquid:naturalgas> * 300);
 // # the sludge waste product can go into a MFR sludge boiler.
-
-// TODO remove plastic powder smelt from rubber
-//furnace.remove(<>);
