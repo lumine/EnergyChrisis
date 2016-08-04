@@ -40,6 +40,15 @@ mods.immersiveengineering.ArcFurnace.addRecipe(<GalacticraftCore:item.basicItem:
 //MineralString + OreString
 //mods.immersiveengineering.Excavator.getMineral("Magnetite").removeOre("oreGold");
 
+mods.immersiveengineering.Excavator.getMineral("Platinum").addOre("oreOsmium", 0.75);
+mods.immersiveengineering.Excavator.getMineral("Silver").addOre("oreOsmium", 0.40);
+mods.immersiveengineering.Excavator.getMineral("Nickel").addOre("oreOsmium", 0.40);
+mods.immersiveengineering.Excavator.getMineral("Bauxite").addOre("oreOsmium", 0.30);
+mods.immersiveengineering.Excavator.getMineral("Bauxite").addOre("oreTungsten", 0.30);
+mods.immersiveengineering.Excavator.getMineral("Lead").addOre("oreTungsten", 0.40);
+mods.immersiveengineering.Excavator.getMineral("Cassiterite").addOre("oreTungsten", 0.40);
+mods.immersiveengineering.Excavator.getMineral("Uranium").addOre("oreTungsten", 0.30);
+
 // ### Organic Chemistry
 
 // # smelting rubber makes pleather not plastic.  Magneticraft Polimerizer is needed for plastic

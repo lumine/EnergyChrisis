@@ -15,6 +15,7 @@ Found creative tab: Magneticraft|Steam Age
 Found creative tab: Magneticraft|Main
 Found creative tab: Magneticraft|Electrical Age
 Found creative tab: Magneticraft|Information Age
+Found creative tab: tabMekanism
 Found creative tab: MineFactory Reloaded
 Found creative tab: combat
 Found creative tab: food
@@ -23,16 +24,15 @@ Found creative tab: SC2Blocks
 Found creative tab: SC2Modules
 Found creative tab: SC2Items
 Found creative tab: storageDrawers
+Found creative tab: aobd
 Found creative tab: tabBonecraft
-Found creative tab: butterflymaniatab
 Found creative tab: ChocoCraft
-Found creative tab: buildingBlocks
-Found creative tab: misc
-Found creative tab: materials
 Found creative tab: Hamsters
-Found creative tab: Falling Meteors Mod
+Found creative tab: buildingBlocks
 Found creative tab: transportation
+Found creative tab: misc
 Found creative tab: brewing
+Found creative tab: materials
 Found creative tab: redstone
 Found creative tab: tabMobDropCrops
 Setting up ForgeMicroblock Library...
@@ -65,9 +65,29 @@ Regex match found! minecraft:spawn_egg matches minecraft:spawn_egg.
 Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
 Loading: ThermalExpansion.js
 Loading: Mekanism.js
+override called. Params: Mekanism, GasTank, 100
+Regex match found! Mekanism:GasTank matches Mekanism:GasTank.
+Found ItemStack Mekanism:GasTank. 1xtile.GasTank@0
+override called. Params: Mekanism, *PlasticBlock, 0
+Regex match found! Mekanism:*PlasticBlock matches Mekanism:GlowPlasticBlock.
+Regex match found! Mekanism:*PlasticBlock matches Mekanism:PlasticBlock.
+Regex match found! Mekanism:*PlasticBlock matches Mekanism:ReinforcedPlasticBlock.
+Regex match found! Mekanism:*PlasticBlock matches Mekanism:RoadPlasticBlock.
+Regex match found! Mekanism:*PlasticBlock matches Mekanism:SlickPlasticBlock.
+Found ItemStack Mekanism:GlowPlasticBlock. 64xtile.GlowPlasticBlock@0
+Found ItemStack Mekanism:PlasticBlock. 64xtile.PlasticBlock@0
+Found ItemStack Mekanism:ReinforcedPlasticBlock. 64xtile.ReinforcedPlasticBlock@0
+Found ItemStack Mekanism:RoadPlasticBlock. 64xtile.RoadPlasticBlock@0
+Found ItemStack Mekanism:SlickPlasticBlock. 64xtile.SlickPlasticBlock@0
+override called. Params: Mekanism, Balloon, 0
+Regex match found! Mekanism:Balloon matches Mekanism:Balloon.
+Found ItemStack Mekanism:Balloon. 64xitem.Balloon@0
+override called. Params: Mekanism, GlowPanel, 0
+Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
+Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: ImmersiveEngineering:stoneDecoration_3
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:stoneDecoration_3
+getRandomMaterial called. Returned: ImmersiveEngineering:storage_1
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:storage_1
 Loading: ExtraUtilities.js
 Loading: BuildCraft.js
 Loading: Bibliocraft.js
