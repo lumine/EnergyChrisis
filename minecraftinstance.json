@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2016-10-03T20:33:25.8575133Z",
+  "lastPlayed": "2016-10-03T22:50:59.4529825Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -199,21 +199,6 @@
       "fileSize": 1461467
     },
     {
-      "folderName": "1.7.10-OreFlowers-4.0.1.jar",
-      "fingerprint": 2102068154,
-      "fileDateHash": 2572224665,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2102068154
-      ],
-      "status": 1,
-      "timestamp": "2016-10-03T19:59:11.5633703Z",
-      "lastWriteTimeUtc": "2016-07-24T03:31:09.8921195Z",
-      "queryTimestamp": "2016-10-03T19:59:12.1722284Z",
-      "fileCount": 1,
-      "fileSize": 353901
-    },
-    {
       "folderName": "GlibysVC-1.7.10-0.6.2a.jar.disabled",
       "fingerprint": 3983061592,
       "fileDateHash": 2543572088,
@@ -319,6 +304,21 @@
       "fileSize": 2532065
     },
     {
+      "folderName": "1.7.10-HardLib-15.26.1a.jar.disabled",
+      "fingerprint": 2975471024,
+      "fileDateHash": 3022423390,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2975471024
+      ],
+      "status": 1,
+      "timestamp": "2016-10-03T20:36:28.1942678Z",
+      "lastWriteTimeUtc": "2016-07-24T03:34:59.7640852Z",
+      "queryTimestamp": "2016-10-03T20:36:28.4749341Z",
+      "fileCount": 1,
+      "fileSize": 55995
+    },
+    {
       "folderName": "AromaBackup-1.7.10-0.1.0.0.jar",
       "fingerprint": 4235831247,
       "fileDateHash": 49420688,
@@ -410,47 +410,49 @@
     },
     {
       "folderName": "New World",
-      "fingerprint": 1184319166,
-      "fileDateHash": 2906706888,
+      "fingerprint": 3792225497,
+      "fileDateHash": 4039826016,
       "sectionID": 17,
       "individualFingerprints": [
-        4888955,
         9299090,
-        69379696,
+        250870469,
+        250870469,
+        250870469,
         380021271,
-        421141094,
+        380754384,
+        558701245,
         758054953,
         758054953,
         758054953,
-        770499991,
-        860262502,
-        907196126,
-        1047712459,
-        1123274507,
-        1123274507,
-        1123274507,
-        1146456094,
+        817525865,
+        1128291495,
+        1295866420,
         1540447798,
         1540447798,
-        2133720904,
-        2201190967,
-        2384925683,
+        1540447798,
+        1635316169,
+        2009855527,
+        2405927512,
         2430003878,
-        2558801438,
-        2618758148,
-        2618758148,
-        2618758148,
+        2440269842,
         2643933950,
-        3429610747,
+        2701283548,
+        2849350634,
+        3034900349,
+        3306783464,
+        3616656474,
         3784058293,
-        3881627088,
-        4168701268,
-        4183677585
+        3913685762,
+        4054407725,
+        4183677585,
+        4251800156,
+        4251800156,
+        4251800156
       ],
       "status": 1,
-      "timestamp": "2016-10-03T20:22:26.9897319Z",
-      "lastWriteTimeUtc": "2016-10-03T20:22:26.8593851Z",
-      "queryTimestamp": "2016-10-03T20:22:33.4169433Z",
+      "timestamp": "2016-10-03T22:46:42.3896319Z",
+      "lastWriteTimeUtc": "2016-10-03T20:42:16.1218387Z",
+      "queryTimestamp": "2016-10-03T22:46:42.761612Z",
       "fileCount": 20,
       "fileSize": 0
     },
@@ -470,21 +472,6 @@
       "fileSize": 36318
     },
     {
-      "folderName": "1.7.10-HardLib-15.26.1a.jar",
-      "fingerprint": 2975471024,
-      "fileDateHash": 3022423390,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2975471024
-      ],
-      "status": 1,
-      "timestamp": "2016-10-03T19:59:11.5477436Z",
-      "lastWriteTimeUtc": "2016-07-24T03:34:59.7640852Z",
-      "queryTimestamp": "2016-10-03T19:59:12.1722284Z",
-      "fileCount": 1,
-      "fileSize": 55995
-    },
-    {
       "folderName": "[1.7.10]StartingInventory-universal-1.7.10.r03.jar",
       "fingerprint": 954546328,
       "fileDateHash": 3709744682,
@@ -498,21 +485,6 @@
       "queryTimestamp": "2016-10-03T20:01:31.6807677Z",
       "fileCount": 1,
       "fileSize": 16873
-    },
-    {
-      "folderName": "CustomOreGen-1.7.10-1.2.24.jar",
-      "fingerprint": 2778662548,
-      "fileDateHash": 3063275974,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2778662548
-      ],
-      "status": 1,
-      "timestamp": "2016-10-03T20:22:26.983215Z",
-      "lastWriteTimeUtc": "2016-10-03T20:18:15.7648049Z",
-      "queryTimestamp": "2016-10-03T20:22:33.4174403Z",
-      "fileCount": 1,
-      "fileSize": 519020
     },
     {
       "folderName": "Pam's BoneCraft 1.7.2b.zip",
@@ -573,6 +545,21 @@
       "queryTimestamp": "2016-10-03T19:59:12.1722284Z",
       "fileCount": 1,
       "fileSize": 256818
+    },
+    {
+      "folderName": "1.7.10-OreFlowers-4.0.1.jar.disabled",
+      "fingerprint": 2102068154,
+      "fileDateHash": 2572224665,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2102068154
+      ],
+      "status": 1,
+      "timestamp": "2016-10-03T20:36:28.1947995Z",
+      "lastWriteTimeUtc": "2016-07-24T03:31:09.8921195Z",
+      "queryTimestamp": "2016-10-03T20:36:28.4759367Z",
+      "fileCount": 1,
+      "fileSize": 353901
     },
     {
       "folderName": "supercraftingframe-1.7.10.3.jar",
@@ -666,18 +653,18 @@
     },
     {
       "folderName": "NEI",
-      "fingerprint": 329044688,
-      "fileDateHash": 3406423213,
+      "fingerprint": 1329255886,
+      "fileDateHash": 2770972840,
       "sectionID": 17,
       "individualFingerprints": [
         530454308,
         1540447798,
-        3240104334
+        3818714025
       ],
       "status": 1,
-      "timestamp": "2016-10-03T19:59:12.0165432Z",
+      "timestamp": "2016-10-03T20:36:28.1998259Z",
       "lastWriteTimeUtc": "2016-10-03T19:59:11.6415278Z",
-      "queryTimestamp": "2016-10-03T19:59:12.1722284Z",
+      "queryTimestamp": "2016-10-03T20:36:28.4769394Z",
       "fileCount": 2,
       "fileSize": 0
     },
@@ -742,6 +729,21 @@
       "fileSize": 253341
     },
     {
+      "folderName": "CustomOreGen-1.7.10-1.2.24.jar.disabled",
+      "fingerprint": 2778662548,
+      "fileDateHash": 3063275974,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2778662548
+      ],
+      "status": 1,
+      "timestamp": "2016-10-03T20:36:28.1968064Z",
+      "lastWriteTimeUtc": "2016-10-03T20:18:15.7648049Z",
+      "queryTimestamp": "2016-10-03T20:36:28.4774407Z",
+      "fileCount": 1,
+      "fileSize": 519020
+    },
+    {
       "folderName": "Pam's Simple Recipes 1.7.10a.jar",
       "fingerprint": 3248859035,
       "fileDateHash": 195867752,
@@ -803,7 +805,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2016-10-03T19:59:09.5678009Z",
+  "lastPreviousMatchUpdate": "2016-10-03T22:46:43.1429828Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.7.10",
@@ -1434,7 +1436,7 @@
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2192,7 +2194,7 @@
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3120,7 +3122,7 @@
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,

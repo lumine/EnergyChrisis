@@ -29,6 +29,8 @@ mods.immersiveengineering.ArcFurnace.addRecipe(<GalacticraftCore:item.basicItem:
 //OutputStack
 //mods.immersiveengineering.Crusher.removeRecipe(<minecraft:blaze_powder>);
 //mods.immersiveengineering.Crusher.addRecipe(<ImmersiveEngineering:metal> * 8, <ImmersiveEngineering:storage:8>, 8000, <minecraft:iron_ingot>, 0.5);
+// titaniumn shards in the crusher can give osmium
+mods.immersiveengineering.Crusher.addRecipe(<Magneticraft:item.dust:15>, <GalacticraftMars:item.itemBasicAsteroids:4>, 8000, <Mekanism:Dust:2>, 0.5);
 
 //Excavator
 //MineralString, MineralWeight, FailChance, OreStringArray, OreChanceArray, DimensionIDArray, isWhitelistOrBlacklist //true=blacklist; false=whitelist
@@ -44,6 +46,9 @@ mods.immersiveengineering.ArcFurnace.addRecipe(<GalacticraftCore:item.basicItem:
 //mods.immersiveengineering.Excavator.getMineral("Silver").addOre("oreOsmium", 0.40);
 //mods.immersiveengineering.Excavator.getMineral("Nickel").addOre("oreOsmium", 0.40);
 //mods.immersiveengineering.Excavator.getMineral("Bauxite").addOre("oreOsmium", 0.30);
+
+mods.immersiveengineering.Excavator.getMineral("Silver").addOre("oreTungsten", 0.40);
+mods.immersiveengineering.Excavator.getMineral("Platinum").addOre("oreTungsten", 0.75);
 mods.immersiveengineering.Excavator.getMineral("Bauxite").addOre("oreTungsten", 0.30);
 mods.immersiveengineering.Excavator.getMineral("Lead").addOre("oreTungsten", 0.40);
 mods.immersiveengineering.Excavator.getMineral("Cassiterite").addOre("oreTungsten", 0.40);
