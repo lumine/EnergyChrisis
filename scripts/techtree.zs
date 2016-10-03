@@ -1,8 +1,10 @@
 // ### Mods
 // Minefactory Reloaded: Sludge, remove plastic
-// Galacticraft: removed refinary
-// Immersive Engineering: refinary fuel
-// Magneticraft: refinary sludge output and biodiesel input
+// Galacticraft: removed refinery, no silicon or span or smelting
+// Immersive Engineering:
+//   Arc furnace makes Galacticraft silicon
+//   crushing titanium shards from galacticraft astroids gives titanium dust and bonus osmium dust
+// Magneticraft: refinary sludge output and biodiesel inputs
 
 // ### Metallergy
 
@@ -30,7 +32,7 @@ mods.immersiveengineering.ArcFurnace.addRecipe(<GalacticraftCore:item.basicItem:
 //mods.immersiveengineering.Crusher.removeRecipe(<minecraft:blaze_powder>);
 //mods.immersiveengineering.Crusher.addRecipe(<ImmersiveEngineering:metal> * 8, <ImmersiveEngineering:storage:8>, 8000, <minecraft:iron_ingot>, 0.5);
 // titaniumn shards in the crusher can give osmium
-mods.immersiveengineering.Crusher.addRecipe(<Magneticraft:item.dust:15>, <GalacticraftMars:item.itemBasicAsteroids:4>, 8000, <Mekanism:Dust:2>, 0.5);
+mods.immersiveengineering.Crusher.addRecipe(<Magneticraft:item.dust:15>, <GalacticraftMars:item.itemBasicAsteroids:4>, 8000, <Mekanism:Dust:2>, 0.85);
 
 //Excavator
 //MineralString, MineralWeight, FailChance, OreStringArray, OreChanceArray, DimensionIDArray, isWhitelistOrBlacklist //true=blacklist; false=whitelist
