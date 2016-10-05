@@ -12,9 +12,13 @@
 //furnace.remove(<minecraft:gold_ingot>);
 // alternatively, you can specify the input item
 //furnace.remove(<*>, <minecraft:iron_ore>);
+// remove aluminum
+furnace.remove(<ImmersiveEngineering:metal:1>);
+furnace.remove(<GalacticraftCore:item.basicItem:5>);
 
 // TODO add graphite rod blueprint recipie
-// TODO Minral deposits bauxite, tungston
+// TODO add galacticraft rocket scematic recipies?
+// TODO Minral deposits bauxite, tungston?
 // TODO grinding
 
 // # quartz and coke power into Si2 and CO2.
@@ -76,5 +80,7 @@ recipes.remove(<GalacticraftCore:tile.refinery>);
 //mods.immersiveengineering.Refinery.addRecipe(<liquid:fuel> * 16, <liquid:lightoil> * 12, <liquid:lava> * 4);
 
 // # biodiesel to fuel and natralgas
-mods.magneticraft.Refinery.addRecipe(<liquid:biodiesel> * 1000, <liquid:sludge> * 400, <liquid:fuel> * 300, <liquid:naturalgas> * 300);
+mods.magneticraft.Refinery.addRecipe(<liquid:biodiesel> * 1000, <liquid:sludge> * 800, <liquid:fuel> * 100, <liquid:naturalgas> * 100);
+// # hot crude to fuel and natralgas
+mods.magneticraft.Refinery.addRecipe(<liquid:hotcrude> * 1000, <liquid:sludge> * 800, <liquid:fuel> * 100, <liquid:naturalgas> * 100);
 // # the sludge waste product can go into a MFR sludge boiler.
