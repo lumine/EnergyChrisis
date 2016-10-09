@@ -25,6 +25,7 @@ Found creative tab: SC2Blocks
 Found creative tab: SC2Modules
 Found creative tab: SC2Items
 Found creative tab: aobd
+Found creative tab: betterquesting
 Found creative tab: tabBonecraft
 Found creative tab: butterflymaniatab
 Found creative tab: ChocoCraft
@@ -88,8 +89,8 @@ override called. Params: Mekanism, GlowPanel, 0
 Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
 Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: ImmersiveEngineering:metalDecoration_10
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:metalDecoration_10
+getRandomMaterial called. Returned: ImmersiveEngineering:stoneDecoration
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:stoneDecoration
 Loading: ExtraUtilities.js
 Loading: BuildCraft.js
 Loading: Bibliocraft.js

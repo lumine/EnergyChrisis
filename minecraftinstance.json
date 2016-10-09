@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2016-10-09T01:23:12.4921189Z",
+  "lastPlayed": "2016-10-09T01:43:34.0718048Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -365,50 +365,14 @@
     },
     {
       "folderName": "New World",
-      "fingerprint": 756758165,
-      "fileDateHash": 3398899124,
+      "fingerprint": 0,
+      "fileDateHash": 2742696142,
       "sectionID": 17,
-      "individualFingerprints": [
-        9299090,
-        67503595,
-        114353804,
-        229423687,
-        229423687,
-        229423687,
-        380021271,
-        558701245,
-        727068721,
-        758054953,
-        758054953,
-        758054953,
-        767920447,
-        770499991,
-        809714381,
-        1146456094,
-        1386712758,
-        1441645950,
-        1540447798,
-        1540447798,
-        1586332021,
-        1829451692,
-        1940120163,
-        2430003878,
-        2578535920,
-        2643933950,
-        2799368343,
-        2876478336,
-        2876478336,
-        2876478336,
-        3429610747,
-        3784058293,
-        4114012462,
-        4183677585,
-        4289769376
-      ],
-      "status": 1,
-      "timestamp": "2016-10-06T03:17:49.0266117Z",
+      "individualFingerprints": null,
+      "status": 5,
+      "timestamp": "2016-10-09T01:25:20.005026Z",
       "lastWriteTimeUtc": "2016-10-05T01:22:10.2590398Z",
-      "queryTimestamp": "2016-10-08T03:10:45.344853Z",
+      "queryTimestamp": "0001-01-01T00:00:00",
       "fileCount": 20,
       "fileSize": 0
     },
@@ -426,6 +390,21 @@
       "queryTimestamp": "2016-10-08T03:10:45.344853Z",
       "fileCount": 1,
       "fileSize": 36318
+    },
+    {
+      "folderName": "DynamicLights-1.7.10.jar",
+      "fingerprint": 2461759585,
+      "fileDateHash": 1087380999,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2461759585
+      ],
+      "status": 1,
+      "timestamp": "2016-10-09T01:25:19.9699678Z",
+      "lastWriteTimeUtc": "2016-10-09T01:22:45.273422Z",
+      "queryTimestamp": "2016-10-09T01:25:20.3118441Z",
+      "fileCount": 1,
+      "fileSize": 96266
     },
     {
       "folderName": "[1.7.10]StartingInventory-universal-1.7.10.r03.jar",
@@ -518,6 +497,21 @@
       "fileSize": 256818
     },
     {
+      "folderName": "OpenModsLib-1.7.10-0.9.1.jar",
+      "fingerprint": 3571887379,
+      "fileDateHash": 77302292,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3571887379
+      ],
+      "status": 1,
+      "timestamp": "2016-10-09T01:25:19.9955445Z",
+      "lastWriteTimeUtc": "2016-10-09T01:17:39.302877Z",
+      "queryTimestamp": "2016-10-09T01:25:20.312345Z",
+      "fileCount": 1,
+      "fileSize": 1154687
+    },
+    {
       "folderName": "supercraftingframe-1.7.10.3.jar",
       "fingerprint": 390200371,
       "fileDateHash": 3336185818,
@@ -531,6 +525,21 @@
       "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
       "fileCount": 1,
       "fileSize": 89875
+    },
+    {
+      "folderName": "OpenBlocks-1.7.10-1.5.1.jar",
+      "fingerprint": 1199356249,
+      "fileDateHash": 3772100627,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1199356249
+      ],
+      "status": 1,
+      "timestamp": "2016-10-09T01:25:19.9719392Z",
+      "lastWriteTimeUtc": "2016-10-09T01:17:40.1880022Z",
+      "queryTimestamp": "2016-10-09T01:25:20.312345Z",
+      "fileCount": 1,
+      "fileSize": 2705342
     },
     {
       "folderName": "MineFactoryReloaded-[1.7.10]2.8.1-174.jar",
@@ -1161,13 +1170,13 @@
       "addonID": 231307,
       "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
       "installedFile": {
-        "Id": 2322108,
-        "FileName": "Buildcraft Builders 7.1.17",
-        "FileNameOnDisk": "buildcraft-7.1.17-builders.jar",
-        "FileDate": "2016-08-10T07:26:36",
+        "Id": 2334987,
+        "FileName": "Buildcraft Builders 7.1.18",
+        "FileNameOnDisk": "buildcraft-7.1.18-builders.jar",
+        "FileDate": "2016-10-08T12:32:00",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2322/108/buildcraft-7.1.17-builders.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2334/987/buildcraft-7.1.18-builders.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -1184,7 +1193,7 @@
           },
           {
             "Foldername": "buildcraft",
-            "Fingerprint": 2295599751
+            "Fingerprint": 769260661
           },
           {
             "Foldername": "LICENSE",
@@ -1199,15 +1208,15 @@
             "Fingerprint": 2464251221
           }
         ],
-        "PackageFingerprint": 180758953,
+        "PackageFingerprint": 4208660603,
         "GameVersion": [
           "1.7.10"
         ]
       },
       "dateInstalled": "2016-10-03T19:59:12.3753749Z",
-      "dateUpdated": "2016-10-03T20:01:44.7796154Z",
-      "dateLastUpdateAttempted": "2016-10-03T20:01:44.7796154Z",
-      "status": 3,
+      "dateUpdated": "2016-10-09T01:43:19.0804495Z",
+      "dateLastUpdateAttempted": "2016-10-09T01:43:19.0804495Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2532,13 +2541,13 @@
       "addonID": 231305,
       "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
       "installedFile": {
-        "Id": 2322107,
-        "FileName": "Buildcraft Core 7.1.17",
-        "FileNameOnDisk": "buildcraft-7.1.17-core.jar",
-        "FileDate": "2016-08-10T07:25:30",
+        "Id": 2334986,
+        "FileName": "Buildcraft Core 7.1.18",
+        "FileNameOnDisk": "buildcraft-7.1.18-core.jar",
+        "FileDate": "2016-10-08T12:31:39",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2322/107/buildcraft-7.1.17-core.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2334/986/buildcraft-7.1.18-core.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -2546,15 +2555,15 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 3878334156
+            "Fingerprint": 3035844462
           },
           {
             "Foldername": "buildcraft",
-            "Fingerprint": 2867295531
+            "Fingerprint": 683815708
           },
           {
             "Foldername": "changelog",
-            "Fingerprint": 3177404787
+            "Fingerprint": 1421827333
           },
           {
             "Foldername": "cofh",
@@ -2586,18 +2595,18 @@
           },
           {
             "Foldername": "versions.txt",
-            "Fingerprint": 870132490
+            "Fingerprint": 205147306
           }
         ],
-        "PackageFingerprint": 3989196688,
+        "PackageFingerprint": 1548651946,
         "GameVersion": [
           "1.7.10"
         ]
       },
       "dateInstalled": "2016-10-03T19:59:12.3910328Z",
-      "dateUpdated": "2016-10-03T20:01:46.2495512Z",
-      "dateLastUpdateAttempted": "2016-10-03T20:01:46.2495512Z",
-      "status": 3,
+      "dateUpdated": "2016-10-09T01:43:20.9321186Z",
+      "dateLastUpdateAttempted": "2016-10-09T01:43:20.9321186Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3012,6 +3021,120 @@
       "dateInstalled": "2016-10-09T01:22:45.273422Z",
       "dateUpdated": "2016-10-09T01:22:45.2744164Z",
       "dateLastUpdateAttempted": "2016-10-09T01:22:45.2744164Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 242039,
+      "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
+      "installedFile": {
+        "Id": 2313735,
+        "FileName": "RFExpansion-1.0.13.jar",
+        "FileNameOnDisk": "RFExpansion-1.0.13.jar",
+        "FileDate": "2016-07-06T10:58:05",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2313/735/RFExpansion-1.0.13.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3606677468
+          },
+          {
+            "Foldername": "bq_rf",
+            "Fingerprint": 1343996232
+          },
+          {
+            "Foldername": "cofh",
+            "Fingerprint": 4207020187
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2001568494
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "title.png",
+            "Fingerprint": 4025947754
+          }
+        ],
+        "PackageFingerprint": 1369273694,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-10-09T01:36:19.3966405Z",
+      "dateUpdated": "2016-10-09T01:36:19.3986505Z",
+      "dateLastUpdateAttempted": "2016-10-09T01:36:19.3986505Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 238856,
+      "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
+      "installedFile": {
+        "Id": 2323825,
+        "FileName": "BetterQuesting-1.0.155.jar",
+        "FileNameOnDisk": "BetterQuesting-1.0.155.jar",
+        "FileDate": "2016-08-18T10:46:47",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2323/825/BetterQuesting-1.0.155.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1574880168
+          },
+          {
+            "Foldername": "betterquesting",
+            "Fingerprint": 1600948594
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1987648039
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "title.png",
+            "Fingerprint": 716088397
+          }
+        ],
+        "PackageFingerprint": 2946977047,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-10-09T01:37:01.2143738Z",
+      "dateUpdated": "2016-10-09T01:37:01.2214209Z",
+      "dateLastUpdateAttempted": "2016-10-09T01:37:01.2214209Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
