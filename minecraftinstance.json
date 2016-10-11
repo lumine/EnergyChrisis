@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2016-10-09T01:43:34.0718048Z",
+  "lastPlayed": "2016-10-11T01:09:46.1560888Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -44,7 +44,7 @@
       "status": 1,
       "timestamp": "2016-10-05T00:45:05.982272Z",
       "lastWriteTimeUtc": "2016-10-05T00:36:29.4035258Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3407598Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 5105
     },
@@ -59,7 +59,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.7040108Z",
       "lastWriteTimeUtc": "2016-07-24T03:01:03.837422Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3407598Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 431480
     },
@@ -74,7 +74,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.9696647Z",
       "lastWriteTimeUtc": "2016-07-24T03:01:39.4367171Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3407598Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 51898
     },
@@ -89,7 +89,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.9696647Z",
       "lastWriteTimeUtc": "2016-07-24T02:59:04.7054941Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3407598Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 513136
     },
@@ -104,24 +104,24 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.9696647Z",
       "lastWriteTimeUtc": "2016-07-24T03:20:29.4527557Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3407598Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 51685
     },
     {
-      "folderName": "BetterBuildersWands-0.6.1-1.7.10r80+358ee26.jar",
-      "fingerprint": 7415620,
-      "fileDateHash": 3100383678,
+      "folderName": "FTBUtilities-1.7.10-1.0.18.3.jar",
+      "fingerprint": 1512278317,
+      "fileDateHash": 1793013556,
       "sectionID": 6,
       "individualFingerprints": [
-        7415620
+        1512278317
       ],
       "status": 1,
-      "timestamp": "2016-10-03T19:59:11.5633703Z",
-      "lastWriteTimeUtc": "2016-08-03T03:59:37.4920631Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3407598Z",
+      "timestamp": "2016-10-09T03:10:14.4385782Z",
+      "lastWriteTimeUtc": "2016-10-09T03:07:02.9380319Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
-      "fileSize": 57099
+      "fileSize": 315302
     },
     {
       "folderName": "Waila-1.5.10_1.7.10.jar",
@@ -134,24 +134,24 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:12.0009173Z",
       "lastWriteTimeUtc": "2016-07-24T02:58:03.6037027Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3407598Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 544821
     },
     {
-      "folderName": "antiqueatlas-1.7.10-4.2.10.jar",
-      "fingerprint": 978868693,
-      "fileDateHash": 2942950865,
+      "folderName": "BetterQuesting-1.0.155.jar.disabled",
+      "fingerprint": 2946977047,
+      "fileDateHash": 4171613359,
       "sectionID": 6,
       "individualFingerprints": [
-        978868693
+        2946977047
       ],
       "status": 1,
-      "timestamp": "2016-10-03T19:59:11.5633703Z",
-      "lastWriteTimeUtc": "2016-07-24T03:29:07.4757839Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3407598Z",
+      "timestamp": "2016-10-09T03:10:14.4270472Z",
+      "lastWriteTimeUtc": "2016-10-09T01:37:01.2143738Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
-      "fileSize": 1106867
+      "fileSize": 902729
     },
     {
       "folderName": "CyanosLootableBodies-1.7.10-backport_1.3.7.jar",
@@ -164,9 +164,24 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.6102519Z",
       "lastWriteTimeUtc": "2016-07-24T03:25:01.3915957Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3407598Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 44129
+    },
+    {
+      "folderName": "buildcraft-7.1.18-core.jar",
+      "fingerprint": 1548651946,
+      "fileDateHash": 2953530753,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1548651946
+      ],
+      "status": 1,
+      "timestamp": "2016-10-09T01:45:11.4602663Z",
+      "lastWriteTimeUtc": "2016-10-09T01:43:20.9301097Z",
+      "queryTimestamp": "2016-10-11T02:07:51.8632913Z",
+      "fileCount": 1,
+      "fileSize": 1128634
     },
     {
       "folderName": "worldedit-forge-mc1.7.10-6.1.1-dist.jar",
@@ -179,9 +194,24 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:12.0165432Z",
       "lastWriteTimeUtc": "2016-07-24T03:05:25.5833087Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3407598Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 1461467
+    },
+    {
+      "folderName": "FTBLib-1.7.10-1.0.18.3.jar",
+      "fingerprint": 1062685546,
+      "fileDateHash": 928041525,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1062685546
+      ],
+      "status": 1,
+      "timestamp": "2016-10-09T03:10:14.4350681Z",
+      "lastWriteTimeUtc": "2016-10-09T03:07:02.6417184Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
+      "fileCount": 1,
+      "fileSize": 667443
     },
     {
       "folderName": "butterflymania-1.7.10-1.3.2.jar",
@@ -194,7 +224,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.5789966Z",
       "lastWriteTimeUtc": "2016-07-24T03:32:00.7760803Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3407598Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 4114163
     },
@@ -209,7 +239,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.7977831Z",
       "lastWriteTimeUtc": "2016-07-24T02:59:46.0848947Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3447669Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 3610468
     },
@@ -224,24 +254,9 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.5946232Z",
       "lastWriteTimeUtc": "2016-07-24T02:59:04.2706307Z",
-      "queryTimestamp": "2016-10-08T03:10:45.344853Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 145782
-    },
-    {
-      "folderName": "buildcraft-7.1.17-core.jar",
-      "fingerprint": 3989196688,
-      "fileDateHash": 1428817513,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3989196688
-      ],
-      "status": 1,
-      "timestamp": "2016-10-03T20:22:26.9766972Z",
-      "lastWriteTimeUtc": "2016-10-03T20:01:46.2455401Z",
-      "queryTimestamp": "2016-10-08T03:10:45.344853Z",
-      "fileCount": 1,
-      "fileSize": 1127506
     },
     {
       "folderName": "magneticraft-0.6.1-final.jar",
@@ -254,7 +269,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.8290234Z",
       "lastWriteTimeUtc": "2016-07-24T03:08:38.063336Z",
-      "queryTimestamp": "2016-10-08T03:10:45.344853Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 2416646
     },
@@ -269,7 +284,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.9853036Z",
       "lastWriteTimeUtc": "2016-07-24T03:02:26.5598388Z",
-      "queryTimestamp": "2016-10-08T03:10:45.344853Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 2532065
     },
@@ -284,7 +299,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.5633703Z",
       "lastWriteTimeUtc": "2016-07-24T03:01:59.7475053Z",
-      "queryTimestamp": "2016-10-08T03:10:45.344853Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 51332
     },
@@ -299,7 +314,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.7196394Z",
       "lastWriteTimeUtc": "2015-09-27T04:42:12Z",
-      "queryTimestamp": "2016-10-08T03:10:45.344853Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 3158682
     },
@@ -314,7 +329,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.9696647Z",
       "lastWriteTimeUtc": "2016-07-24T03:13:13.8432415Z",
-      "queryTimestamp": "2016-10-08T03:10:45.344853Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 927376
     },
@@ -329,7 +344,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.6102519Z",
       "lastWriteTimeUtc": "2016-07-24T03:41:51.5664553Z",
-      "queryTimestamp": "2016-10-08T03:10:45.344853Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 1279941
     },
@@ -344,7 +359,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.5946232Z",
       "lastWriteTimeUtc": "2016-08-07T05:23:57.2784445Z",
-      "queryTimestamp": "2016-10-08T03:10:45.344853Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 1230523
     },
@@ -359,21 +374,64 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.7977831Z",
       "lastWriteTimeUtc": "2016-07-24T03:15:34.033677Z",
-      "queryTimestamp": "2016-10-08T03:10:45.344853Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 78704
     },
     {
       "folderName": "New World",
-      "fingerprint": 0,
-      "fileDateHash": 2742696142,
+      "fingerprint": 1529874741,
+      "fileDateHash": 4052110553,
       "sectionID": 17,
-      "individualFingerprints": null,
-      "status": 5,
-      "timestamp": "2016-10-09T01:25:20.005026Z",
-      "lastWriteTimeUtc": "2016-10-05T01:22:10.2590398Z",
-      "queryTimestamp": "0001-01-01T00:00:00",
-      "fileCount": 20,
+      "individualFingerprints": [
+        9299090,
+        67503595,
+        90216808,
+        380021271,
+        558701245,
+        758054953,
+        758054953,
+        758054953,
+        767920447,
+        770499991,
+        803077585,
+        942575727,
+        969093996,
+        1146456094,
+        1441645950,
+        1540447798,
+        1540447798,
+        1586332021,
+        1940120163,
+        2019556358,
+        2019556358,
+        2019556358,
+        2187935441,
+        2200343936,
+        2430003878,
+        2438022517,
+        2505563669,
+        2512775913,
+        2643933950,
+        3187216187,
+        3253572079,
+        3429610747,
+        3467526921,
+        3467526921,
+        3467526921,
+        3618874776,
+        3784058293,
+        3853220966,
+        3873654661,
+        4079853652,
+        4183677585,
+        4289769376
+      ],
+      "status": 1,
+      "timestamp": "2016-10-11T00:58:53.4682738Z",
+      "lastWriteTimeUtc": "2016-10-10T02:03:15.7888646Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
+      "fileCount": 24,
       "fileSize": 0
     },
     {
@@ -387,7 +445,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.9696647Z",
       "lastWriteTimeUtc": "2016-07-24T03:21:28.0846368Z",
-      "queryTimestamp": "2016-10-08T03:10:45.344853Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 36318
     },
@@ -402,9 +460,24 @@
       "status": 1,
       "timestamp": "2016-10-09T01:25:19.9699678Z",
       "lastWriteTimeUtc": "2016-10-09T01:22:45.273422Z",
-      "queryTimestamp": "2016-10-09T01:25:20.3118441Z",
+      "queryTimestamp": "2016-10-11T02:07:51.8647953Z",
       "fileCount": 1,
       "fileSize": 96266
+    },
+    {
+      "folderName": "buildcraft-7.1.18-builders.jar",
+      "fingerprint": 4208660603,
+      "fileDateHash": 3917420584,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4208660603
+      ],
+      "status": 1,
+      "timestamp": "2016-10-09T01:45:11.4592352Z",
+      "lastWriteTimeUtc": "2016-10-09T01:43:19.0784446Z",
+      "queryTimestamp": "2016-10-11T02:07:51.8647953Z",
+      "fileCount": 1,
+      "fileSize": 229736
     },
     {
       "folderName": "[1.7.10]StartingInventory-universal-1.7.10.r03.jar",
@@ -417,7 +490,7 @@
       "status": 1,
       "timestamp": "2016-10-03T20:01:31.2369487Z",
       "lastWriteTimeUtc": "2016-08-07T02:37:47.4439869Z",
-      "queryTimestamp": "2016-10-08T03:10:45.344853Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 16873
     },
@@ -432,7 +505,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.8290234Z",
       "lastWriteTimeUtc": "2016-08-03T04:05:39.3722709Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 224461
     },
@@ -447,24 +520,39 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.9696647Z",
       "lastWriteTimeUtc": "2016-07-24T03:20:32.084108Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 83786
     },
     {
-      "folderName": "buildcraft-7.1.17-builders.jar",
-      "fingerprint": 180758953,
-      "fileDateHash": 888227679,
+      "folderName": "BetterBuildersWands-0.6.1-1.7.10r80+358ee26.jar.disabled",
+      "fingerprint": 7415620,
+      "fileDateHash": 3100383678,
       "sectionID": 6,
       "individualFingerprints": [
-        180758953
+        7415620
       ],
       "status": 1,
-      "timestamp": "2016-10-03T20:22:26.9736892Z",
-      "lastWriteTimeUtc": "2016-10-03T20:01:44.7715933Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "timestamp": "2016-10-09T03:10:14.4235363Z",
+      "lastWriteTimeUtc": "2016-08-03T03:59:37.4920631Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
-      "fileSize": 229736
+      "fileSize": 57099
+    },
+    {
+      "folderName": "RFExpansion-1.0.13.jar.disabled",
+      "fingerprint": 1369273694,
+      "fileDateHash": 2183824947,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1369273694
+      ],
+      "status": 1,
+      "timestamp": "2016-10-09T03:10:14.4405836Z",
+      "lastWriteTimeUtc": "2016-10-09T01:36:19.3966405Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
+      "fileCount": 1,
+      "fileSize": 83218
     },
     {
       "folderName": "D3Core-1.7.10-1.1.2.41.jar",
@@ -477,7 +565,7 @@
       "status": 1,
       "timestamp": "2016-10-05T00:45:05.9817331Z",
       "lastWriteTimeUtc": "2016-10-05T00:36:29.1912902Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 64462
     },
@@ -492,7 +580,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.5633703Z",
       "lastWriteTimeUtc": "2016-07-24T03:15:21.5665227Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 256818
     },
@@ -507,7 +595,7 @@
       "status": 1,
       "timestamp": "2016-10-09T01:25:19.9955445Z",
       "lastWriteTimeUtc": "2016-10-09T01:17:39.302877Z",
-      "queryTimestamp": "2016-10-09T01:25:20.312345Z",
+      "queryTimestamp": "2016-10-11T02:07:51.8668007Z",
       "fileCount": 1,
       "fileSize": 1154687
     },
@@ -522,9 +610,24 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:12.0009173Z",
       "lastWriteTimeUtc": "2016-07-24T03:06:04.8345857Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 89875
+    },
+    {
+      "folderName": "antiqueatlas-1.7.10-4.2.10.jar.disabled",
+      "fingerprint": 978868693,
+      "fileDateHash": 2942950865,
+      "sectionID": 6,
+      "individualFingerprints": [
+        978868693
+      ],
+      "status": 1,
+      "timestamp": "2016-10-09T03:10:14.4150496Z",
+      "lastWriteTimeUtc": "2016-07-24T03:29:07.4757839Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
+      "fileCount": 1,
+      "fileSize": 1106867
     },
     {
       "folderName": "OpenBlocks-1.7.10-1.5.1.jar",
@@ -537,7 +640,7 @@
       "status": 1,
       "timestamp": "2016-10-09T01:25:19.9719392Z",
       "lastWriteTimeUtc": "2016-10-09T01:17:40.1880022Z",
-      "queryTimestamp": "2016-10-09T01:25:20.312345Z",
+      "queryTimestamp": "2016-10-11T02:07:51.867302Z",
       "fileCount": 1,
       "fileSize": 2705342
     },
@@ -552,7 +655,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.9540369Z",
       "lastWriteTimeUtc": "2016-07-24T02:58:40.902207Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 1756014
     },
@@ -567,7 +670,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.5946232Z",
       "lastWriteTimeUtc": "2016-07-24T03:15:47.2825719Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 475949
     },
@@ -582,7 +685,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.9696647Z",
       "lastWriteTimeUtc": "2016-07-24T03:13:18.9786247Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 33346
     },
@@ -597,7 +700,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.5633703Z",
       "lastWriteTimeUtc": "2016-07-24T03:01:59.5742736Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 159243
     },
@@ -612,7 +715,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.8446505Z",
       "lastWriteTimeUtc": "2016-08-03T22:55:40.7329721Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 15780244
     },
@@ -627,7 +730,7 @@
       "status": 1,
       "timestamp": "2016-10-05T00:45:05.982272Z",
       "lastWriteTimeUtc": "2016-10-05T00:34:03.0030329Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 94792
     },
@@ -644,7 +747,7 @@
       "status": 1,
       "timestamp": "2016-10-05T00:45:05.983275Z",
       "lastWriteTimeUtc": "2016-10-03T19:59:11.6415278Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 2,
       "fileSize": 0
     },
@@ -659,7 +762,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.7352657Z",
       "lastWriteTimeUtc": "2015-09-27T04:42:12Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 9230826
     },
@@ -674,7 +777,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.5633703Z",
       "lastWriteTimeUtc": "2016-08-03T03:56:33.1497923Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3466984Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 211318
     },
@@ -689,7 +792,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.7040108Z",
       "lastWriteTimeUtc": "2016-07-24T03:01:47.6660177Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3507007Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 182657
     },
@@ -704,7 +807,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.9384106Z",
       "lastWriteTimeUtc": "2016-08-03T22:55:43.835312Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3507007Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 253341
     },
@@ -719,7 +822,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.9853036Z",
       "lastWriteTimeUtc": "2016-07-24T03:21:02.9532908Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3507007Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 4598
     },
@@ -734,7 +837,7 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.8290234Z",
       "lastWriteTimeUtc": "2016-07-24T03:30:07.2510498Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3507007Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 126448
     },
@@ -749,13 +852,13 @@
       "status": 1,
       "timestamp": "2016-10-03T19:59:11.9540369Z",
       "lastWriteTimeUtc": "2015-09-27T04:42:12Z",
-      "queryTimestamp": "2016-10-08T03:10:45.3507007Z",
+      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 63964
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2016-10-09T01:14:40.8190796Z",
+  "lastPreviousMatchUpdate": "2016-10-11T04:06:30.4104218Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.7.10",
@@ -952,45 +1055,7 @@
     {
       "addonID": 238403,
       "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
-      "installedFile": {
-        "Id": 2300104,
-        "FileName": "Better Builder's Wands 0.6.1 [MC1.7.10; rev 80]",
-        "FileNameOnDisk": "BetterBuildersWands-0.6.1-1.7.10r80+358ee26.jar",
-        "FileDate": "2016-05-15T00:01:19",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2300/104/BetterBuildersWands-0.6.1-1.7.10r80+358ee26.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 139202239
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1535707326
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "portablejim",
-            "Fingerprint": 2966987441
-          },
-          {
-            "Foldername": "version.properties",
-            "Fingerprint": 812114778
-          }
-        ],
-        "PackageFingerprint": 7415620,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
+      "installedFile": null,
       "dateInstalled": "2016-10-03T19:59:12.3753749Z",
       "dateUpdated": "2015-10-03T19:59:12.3753749Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
@@ -1069,7 +1134,7 @@
       "installedFile": {
         "Id": 2271214,
         "FileName": "Antique Atlas v4.2.10 (1.7.10)",
-        "FileNameOnDisk": "antiqueatlas-1.7.10-4.2.10.jar",
+        "FileNameOnDisk": "antiqueatlas-1.7.10-4.2.10.jar.disabled",
         "FileDate": "2015-12-17T16:59:06",
         "ReleaseType": 1,
         "FileStatus": 2,
@@ -1113,7 +1178,7 @@
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -1216,7 +1281,7 @@
       "dateInstalled": "2016-10-03T19:59:12.3753749Z",
       "dateUpdated": "2016-10-09T01:43:19.0804495Z",
       "dateLastUpdateAttempted": "2016-10-09T01:43:19.0804495Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2606,7 +2671,7 @@
       "dateInstalled": "2016-10-03T19:59:12.3910328Z",
       "dateUpdated": "2016-10-09T01:43:20.9321186Z",
       "dateLastUpdateAttempted": "2016-10-09T01:43:20.9321186Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2859,7 +2924,7 @@
       "installedFile": {
         "Id": 2280605,
         "FileName": "OpenModsLib-1.7.10-0.9.1.jar",
-        "FileNameOnDisk": "OpenModsLib-1.7.10-0.9.1.jar",
+        "FileNameOnDisk": "OpenModsLib-1.7.10-0.9.1.jar.disabled",
         "FileDate": "2016-02-07T15:48:39",
         "ReleaseType": 1,
         "FileStatus": 2,
@@ -2898,7 +2963,7 @@
       "dateInstalled": "2016-10-09T01:17:39.3049175Z",
       "dateUpdated": "2016-10-09T01:17:39.344989Z",
       "dateLastUpdateAttempted": "2016-10-09T01:17:39.344989Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2914,7 +2979,7 @@
       "installedFile": {
         "Id": 2280606,
         "FileName": "OpenBlocks-1.7.10-1.5.1.jar",
-        "FileNameOnDisk": "OpenBlocks-1.7.10-1.5.1.jar",
+        "FileNameOnDisk": "OpenBlocks-1.7.10-1.5.1.jar.disabled",
         "FileDate": "2016-02-07T15:49:10",
         "ReleaseType": 1,
         "FileStatus": 2,
@@ -2958,7 +3023,7 @@
       "dateInstalled": "2016-10-09T01:17:40.1880022Z",
       "dateUpdated": "2016-10-09T01:17:40.1920461Z",
       "dateLastUpdateAttempted": "2016-10-09T01:17:40.1920461Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3021,7 +3086,7 @@
       "dateInstalled": "2016-10-09T01:22:45.273422Z",
       "dateUpdated": "2016-10-09T01:22:45.2744164Z",
       "dateLastUpdateAttempted": "2016-10-09T01:22:45.2744164Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3034,53 +3099,11 @@
     {
       "addonID": 242039,
       "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
-      "installedFile": {
-        "Id": 2313735,
-        "FileName": "RFExpansion-1.0.13.jar",
-        "FileNameOnDisk": "RFExpansion-1.0.13.jar",
-        "FileDate": "2016-07-06T10:58:05",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2313/735/RFExpansion-1.0.13.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 3606677468
-          },
-          {
-            "Foldername": "bq_rf",
-            "Fingerprint": 1343996232
-          },
-          {
-            "Foldername": "cofh",
-            "Fingerprint": 4207020187
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2001568494
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "title.png",
-            "Fingerprint": 4025947754
-          }
-        ],
-        "PackageFingerprint": 1369273694,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
+      "installedFile": null,
       "dateInstalled": "2016-10-09T01:36:19.3966405Z",
       "dateUpdated": "2016-10-09T01:36:19.3986505Z",
       "dateLastUpdateAttempted": "2016-10-09T01:36:19.3986505Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3093,14 +3116,31 @@
     {
       "addonID": 238856,
       "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
+      "installedFile": null,
+      "dateInstalled": "2016-10-09T01:37:01.2143738Z",
+      "dateUpdated": "2016-10-09T01:37:01.2214209Z",
+      "dateLastUpdateAttempted": "2016-10-09T01:37:01.2214209Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 237167,
+      "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
       "installedFile": {
-        "Id": 2323825,
-        "FileName": "BetterQuesting-1.0.155.jar",
-        "FileNameOnDisk": "BetterQuesting-1.0.155.jar",
-        "FileDate": "2016-08-18T10:46:47",
+        "Id": 2291433,
+        "FileName": "FTBLib-1.7.10-1.0.18.3.jar",
+        "FileNameOnDisk": "FTBLib-1.7.10-1.0.18.3.jar.disabled",
+        "FileDate": "2016-04-01T17:33:54",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2323/825/BetterQuesting-1.0.155.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2291/433/FTBLib-1.7.10-1.0.18.3.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -3108,33 +3148,140 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 1574880168
+            "Fingerprint": 1734933796
           },
           {
-            "Foldername": "betterquesting",
-            "Fingerprint": 1600948594
+            "Foldername": "ftb",
+            "Fingerprint": 139277153
+          },
+          {
+            "Foldername": "latmod",
+            "Fingerprint": 2785282270
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1987648039
+            "Fingerprint": 4076875093
           },
           {
             "Foldername": "META-INF",
             "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "title.png",
-            "Fingerprint": 716088397
           }
         ],
-        "PackageFingerprint": 2946977047,
+        "PackageFingerprint": 1062685546,
         "GameVersion": [
           "1.7.10"
         ]
       },
-      "dateInstalled": "2016-10-09T01:37:01.2143738Z",
-      "dateUpdated": "2016-10-09T01:37:01.2214209Z",
-      "dateLastUpdateAttempted": "2016-10-09T01:37:01.2214209Z",
+      "dateInstalled": "2016-10-09T03:07:02.6417184Z",
+      "dateUpdated": "2016-10-09T03:07:02.6417184Z",
+      "dateLastUpdateAttempted": "2016-10-09T03:07:02.6417184Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 237102,
+      "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
+      "installedFile": {
+        "Id": 2291494,
+        "FileName": "FTBUtilities-1.7.10-1.0.18.3.jar",
+        "FileNameOnDisk": "FTBUtilities-1.7.10-1.0.18.3.jar.disabled",
+        "FileDate": "2016-04-01T21:45:48",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2291/494/FTBUtilities-1.7.10-1.0.18.3.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 237167,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3337814854
+          },
+          {
+            "Foldername": "ftb",
+            "Fingerprint": 2267778818
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 67779328
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 1512278317,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-10-09T03:07:02.942037Z",
+      "dateUpdated": "2016-10-09T03:07:02.942037Z",
+      "dateLastUpdateAttempted": "2016-10-09T03:07:02.942037Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 77027,
+      "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
+      "installedFile": {
+        "Id": 2270435,
+        "FileName": "HQM The Journey (4.4.4)",
+        "FileNameOnDisk": "HQM-The Journey-4.4.4.jar",
+        "FileDate": "2015-12-12T10:48:31",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2270/435/HQM-The Journey-4.4.4.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2581401665
+          },
+          {
+            "Foldername": "hardcorequesting",
+            "Fingerprint": 3684694481
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 702255906
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 3210480184,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-10-11T01:09:24.2675419Z",
+      "dateUpdated": "2016-10-11T01:09:24.279598Z",
+      "dateLastUpdateAttempted": "2016-10-11T01:09:24.279598Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
