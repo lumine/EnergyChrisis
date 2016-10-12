@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2016-10-11T01:09:46.1560888Z",
+  "lastPlayed": "2016-10-12T00:42:58.8594202Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -137,21 +137,6 @@
       "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
       "fileCount": 1,
       "fileSize": 544821
-    },
-    {
-      "folderName": "BetterQuesting-1.0.155.jar.disabled",
-      "fingerprint": 2946977047,
-      "fileDateHash": 4171613359,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2946977047
-      ],
-      "status": 1,
-      "timestamp": "2016-10-09T03:10:14.4270472Z",
-      "lastWriteTimeUtc": "2016-10-09T01:37:01.2143738Z",
-      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
-      "fileCount": 1,
-      "fileSize": 902729
     },
     {
       "folderName": "CyanosLootableBodies-1.7.10-backport_1.3.7.jar",
@@ -380,57 +365,57 @@
     },
     {
       "folderName": "New World",
-      "fingerprint": 1529874741,
-      "fileDateHash": 4052110553,
+      "fingerprint": 3720855332,
+      "fileDateHash": 4043149559,
       "sectionID": 17,
       "individualFingerprints": [
         9299090,
         67503595,
-        90216808,
         380021271,
+        509332177,
         558701245,
         758054953,
         758054953,
         758054953,
         767920447,
         770499991,
-        803077585,
+        930463009,
         942575727,
-        969093996,
+        1078394697,
         1146456094,
+        1148362337,
         1441645950,
         1540447798,
         1540447798,
         1586332021,
+        1768034729,
         1940120163,
-        2019556358,
-        2019556358,
-        2019556358,
+        1970788827,
         2187935441,
         2200343936,
         2430003878,
         2438022517,
-        2505563669,
-        2512775913,
         2643933950,
+        3027092603,
+        3180731757,
+        3180731757,
+        3180731757,
         3187216187,
-        3253572079,
+        3212397716,
+        3212397716,
+        3212397716,
         3429610747,
-        3467526921,
-        3467526921,
-        3467526921,
-        3618874776,
         3784058293,
-        3853220966,
-        3873654661,
+        4015286137,
         4079853652,
+        4090623209,
         4183677585,
         4289769376
       ],
       "status": 1,
-      "timestamp": "2016-10-11T00:58:53.4682738Z",
-      "lastWriteTimeUtc": "2016-10-10T02:03:15.7888646Z",
-      "queryTimestamp": "2016-10-11T00:59:01.0807837Z",
+      "timestamp": "2016-10-11T01:32:47.0480655Z",
+      "lastWriteTimeUtc": "2016-10-11T01:22:48.7907103Z",
+      "queryTimestamp": "2016-10-11T01:32:47.5413787Z",
       "fileCount": 24,
       "fileSize": 0
     },
@@ -523,36 +508,6 @@
       "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
       "fileCount": 1,
       "fileSize": 83786
-    },
-    {
-      "folderName": "BetterBuildersWands-0.6.1-1.7.10r80+358ee26.jar.disabled",
-      "fingerprint": 7415620,
-      "fileDateHash": 3100383678,
-      "sectionID": 6,
-      "individualFingerprints": [
-        7415620
-      ],
-      "status": 1,
-      "timestamp": "2016-10-09T03:10:14.4235363Z",
-      "lastWriteTimeUtc": "2016-08-03T03:59:37.4920631Z",
-      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
-      "fileCount": 1,
-      "fileSize": 57099
-    },
-    {
-      "folderName": "RFExpansion-1.0.13.jar.disabled",
-      "fingerprint": 1369273694,
-      "fileDateHash": 2183824947,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1369273694
-      ],
-      "status": 1,
-      "timestamp": "2016-10-09T03:10:14.4405836Z",
-      "lastWriteTimeUtc": "2016-10-09T01:36:19.3966405Z",
-      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
-      "fileCount": 1,
-      "fileSize": 83218
     },
     {
       "folderName": "D3Core-1.7.10-1.1.2.41.jar",
@@ -720,6 +675,21 @@
       "fileSize": 15780244
     },
     {
+      "folderName": "HQM-The Journey-4.4.4.jar",
+      "fingerprint": 3210480184,
+      "fileDateHash": 4268306772,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3210480184
+      ],
+      "status": 1,
+      "timestamp": "2016-10-11T01:21:36.6838584Z",
+      "lastWriteTimeUtc": "2016-10-11T01:09:24.2670354Z",
+      "queryTimestamp": "2016-10-11T01:21:36.965105Z",
+      "fileCount": 1,
+      "fileSize": 1435528
+    },
+    {
       "folderName": "[1.7.10]Treecapitator-universal-2.0.4.jar",
       "fingerprint": 4282300978,
       "fileDateHash": 707865471,
@@ -736,19 +706,73 @@
     },
     {
       "folderName": "NEI",
-      "fingerprint": 1329255886,
-      "fileDateHash": 1545295476,
+      "fingerprint": 3899382270,
+      "fileDateHash": 3176545275,
       "sectionID": 17,
       "individualFingerprints": [
         530454308,
+        530454308,
         1540447798,
+        2286261817,
         3818714025
       ],
       "status": 1,
-      "timestamp": "2016-10-05T00:45:05.983275Z",
+      "timestamp": "2016-10-11T01:32:47.0430526Z",
       "lastWriteTimeUtc": "2016-10-03T19:59:11.6415278Z",
-      "queryTimestamp": "2016-10-11T00:59:01.0964112Z",
+      "queryTimestamp": "2016-10-11T01:32:47.5453902Z",
       "fileCount": 2,
+      "fileSize": 0
+    },
+    {
+      "folderName": "hqm",
+      "fingerprint": 1164621895,
+      "fileDateHash": 1093145958,
+      "sectionID": 17,
+      "individualFingerprints": [
+        9299090,
+        234464632,
+        380021271,
+        548243026,
+        558701245,
+        713594655,
+        758054953,
+        758054953,
+        758054953,
+        800426013,
+        800426013,
+        800426013,
+        1019361612,
+        1157302055,
+        1526592446,
+        1540447798,
+        1540447798,
+        1540447798,
+        1597863617,
+        1599711783,
+        1918293681,
+        1918293681,
+        1941438169,
+        2124630816,
+        2187935441,
+        2430003878,
+        2438022517,
+        2638477841,
+        2643933950,
+        2654632512,
+        2861824512,
+        2886861689,
+        3063251084,
+        3712427473,
+        3717157346,
+        3784058293,
+        3942160597,
+        4183677585
+      ],
+      "status": 1,
+      "timestamp": "2016-10-11T04:06:29.8214883Z",
+      "lastWriteTimeUtc": "2016-10-11T03:41:05.2393701Z",
+      "queryTimestamp": "2016-10-11T04:06:30.1052108Z",
+      "fileCount": 22,
       "fileSize": 0
     },
     {
@@ -1039,23 +1063,6 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2016-10-03T19:59:12.3753749Z",
-      "dateUpdated": "2015-10-03T19:59:12.3753749Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 238403,
-      "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
-      "installedFile": null,
       "dateInstalled": "2016-10-03T19:59:12.3753749Z",
       "dateUpdated": "2015-10-03T19:59:12.3753749Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
@@ -3097,40 +3104,6 @@
       "manifestName": null
     },
     {
-      "addonID": 242039,
-      "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
-      "installedFile": null,
-      "dateInstalled": "2016-10-09T01:36:19.3966405Z",
-      "dateUpdated": "2016-10-09T01:36:19.3986505Z",
-      "dateLastUpdateAttempted": "2016-10-09T01:36:19.3986505Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 238856,
-      "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
-      "installedFile": null,
-      "dateInstalled": "2016-10-09T01:37:01.2143738Z",
-      "dateUpdated": "2016-10-09T01:37:01.2214209Z",
-      "dateLastUpdateAttempted": "2016-10-09T01:37:01.2214209Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
       "addonID": 237167,
       "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
       "installedFile": {
@@ -3282,6 +3255,117 @@
       "dateInstalled": "2016-10-11T01:09:24.2675419Z",
       "dateUpdated": "2016-10-11T01:09:24.279598Z",
       "dateLastUpdateAttempted": "2016-10-11T01:09:24.279598Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 243298,
+      "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
+      "installedFile": {
+        "Id": 2319767,
+        "FileName": "LLibrary 1.5.1",
+        "FileNameOnDisk": "llibrary-1.5.1-1.7.10.jar",
+        "FileDate": "2016-07-30T13:54:16",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2319/767/llibrary-1.5.1-1.7.10.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3402795725
+          },
+          {
+            "Foldername": "llibrary.mappings",
+            "Fingerprint": 3885387126
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 8101246
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 4053466308
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 3099140834
+          }
+        ],
+        "PackageFingerprint": 618797755,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-10-11T04:09:11.1407406Z",
+      "dateUpdated": "2016-10-11T04:09:11.1447513Z",
+      "dateLastUpdateAttempted": "2016-10-11T04:09:11.1447513Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 223908,
+      "gameInstanceID": "78713850-6214-4368-95c4-72f13d5e6d5e",
+      "installedFile": {
+        "Id": 2321502,
+        "FileName": "Fossils and Archeology: Revival 7.3.2",
+        "FileNameOnDisk": "fossilsarcheology-7.3.2.jar",
+        "FileDate": "2016-08-07T19:53:11",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2321/502/fossilsarcheology-7.3.2.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 243298,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2423218950
+          },
+          {
+            "Foldername": "fossilsarcheology",
+            "Fingerprint": 4034463365
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2809061870
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 3490430706
+          }
+        ],
+        "PackageFingerprint": 1985399725,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2016-10-11T04:09:35.4061448Z",
+      "dateUpdated": "2016-10-11T04:09:35.4373978Z",
+      "dateLastUpdateAttempted": "2016-10-11T04:09:35.4373978Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
