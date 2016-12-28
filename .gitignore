@@ -1,0 +1,12 @@
+*
+!.gitignore
+!minecraftinstance.json
+!/scripts
+!/scripts/*
+!/config
+!/config/*
+!/config/*/*
+!/config/*/*/*
+!/config/*/*/*/*
+!/docs/*
+!/docs/*/*
