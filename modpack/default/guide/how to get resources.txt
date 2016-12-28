@@ -1,0 +1,8 @@
+The following resources are harder to get because they require technology to obtain.  You will not find them while mining.
+
+oil:  use Immersive Engineering biodiesel
+tungsten: only in mineral deposits under the bedrock see the Immersive Engineering  Core Sample Drill
+fuel: to fuel a rocket pump biodiesel into a Magneticraft refinery
+silicon ore: Check NEI you can make raw silicon in an arc furnace
+plastic: use a Magneticraft polymerizer
+osmium: use Galacticraft to mine the asteroid belt for titanium chunks and grind them in a Immersive Engineering grinder
