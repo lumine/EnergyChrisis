@@ -1,3 +1,3 @@
-# RogueStar
+# Energy Crisis
 
-Rogue Star is a multiblock factory building modpack with only one qest to acomplish.  Flee the solar system.
+Build a massive Immersive Engineering factory.  Get to the moon, to mars, then mine the asteroid belt to build a fusion reactor.
