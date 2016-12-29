@@ -114,8 +114,8 @@ block 6 12 4b727314
 block 7 * ff535353
 block 8 * b22e43f4
 block 9 * b22e43f4
-block 10 * ffd1530e
-block 11 * ffd1530e
+block 10 * ffd86618
+block 11 * ffd86618
 block 12 * ffdbd3a0
 block 12 1 ffa95821
 block 13 * ff7e7c7a
@@ -265,7 +265,7 @@ block 47 * ff9c7f4e
 block 48 * ff677967
 block 49 * ff14121d
 block 50 * 13826a3a
-block 51 * 90e0aa54
+block 51 * 90dca246
 block 52 * 9b1a2731
 block 53 * ff9c7f4e
 block 54 * ff9c7f4e
@@ -1314,10 +1314,10 @@ block 605 * bcc06d85
 block 606 * ff265f0c
 block 607 * ff5c3d06
 block 608 * ffa86e00
-block 610 * ebc4c4c4
+block 610 * ecc4c4c4
 block 611 * f301030c
 block 612 * f85b3200
-block 613 * f04f7110
+block 613 * f04e7110
 block 614 * e8412d51
 block 615 * f8aa755e
 block 616 * f7f6a395
@@ -1676,7 +1676,7 @@ block 805 12 ff3c2313
 block 805 13 ff2c3c13
 block 805 14 ff862420
 block 805 15 ff161414
-block 806 * ff2c4480
+block 806 * ff2c4581
 block 807 * ff82817b
 block 808 * ffffffff
 block 809 * ffe58688

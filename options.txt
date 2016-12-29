@@ -101,6 +101,8 @@ key_key.mw_underground_mode:22
 key_Mekanism Item Mode Switch:50
 key_Mekanism Armor Mode Switch:33
 key_Mekanism Voice:22
+key_key.materialCosts:56
+key_key.clipboardPaste:210
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
