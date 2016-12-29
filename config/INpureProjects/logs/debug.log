@@ -92,8 +92,8 @@ override called. Params: Mekanism, GlowPanel, 0
 Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
 Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: ImmersiveEngineering:storage_1
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:storage_1
+getRandomMaterial called. Returned: ImmersiveEngineering:storage_2
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:storage_2
 Loading: ExtraUtilities.js
 Loading: BuildCraft.js
 Loading: Bibliocraft.js
