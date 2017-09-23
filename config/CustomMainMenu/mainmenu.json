@@ -3,15 +3,15 @@
     {
         "title":
         {
-            "image" : "custommainmenu:textures/gui/minecraft.png",
-            "posX" : -137,
-            "posY" : 30,
-            "width" : 512,
-            "height" : 512,
+            "image" : "ec:textures/gui/title/tecnic-logo.png",
+            "posX" : -60,
+            "posY" : 12,
+            "width" : 120,
+            "height" : 70,
             "alignment" : "top_center"
         }
     },
-    
+
     "buttons":
     {
         "singleplayer":
@@ -21,13 +21,13 @@
             "posY" : 48,
             "width" : 200,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "singleplayer"
             }
         },
-        
+
         "multiplayer":
         {
             "text" : "menu.multiplayer",
@@ -35,13 +35,13 @@
             "posY" : 72,
             "width" : 200,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "multiplayer"
             }
         },
-        
+
         "mods":
         {
             "text" : "Mods",
@@ -49,13 +49,13 @@
             "posY" : 96,
             "width" : 200,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "mods"
             }
         },
-            
+
         "options":
         {
             "text" : "menu.options",
@@ -63,13 +63,13 @@
             "posY" : 132,
             "width" : 98,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "options"
             }
         },
-        
+
         "quit":
         {
             "text" : "menu.quit",
@@ -77,12 +77,12 @@
             "posY" : 132,
             "width" : 98,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "quit"
             }
         },
-        
+
         "language":
         {
             "text" : "",
@@ -90,13 +90,13 @@
             "posY" : 132,
             "width" : 20,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "languages"
             }
         },
-        
+
         "refresh":
         {
             "text" : "",
@@ -105,13 +105,13 @@
             "width" : 20,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons.png",
-            "action" : 
+            "action" :
             {
                 "type" : "refresh"
             }
         }
     },
-    
+
     "texts":
     {
         "mojang":
@@ -122,7 +122,7 @@
             "color" : -1,
             "alignment" : "bottom_right"
         },
-        
+
         "fml":
         {
             "text" : "",
@@ -132,25 +132,22 @@
             "alignment" : "bottom_left"
         }
     },
-    
+
     "other":
     {
         "splash-text":
         {
-            "posX" : 90,
-            "posY" : 70,
+            "posX" : 50,
+            "posY" : 81,
             "color" : -256,
             "alignment" : "top_center",
             "texts" : "file:minecraft:texts/splashes.txt"
         },
-        
-        "panorama":
+
+        "background":
         {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
-            "animate" : true,
-            "animationSpeed" : 1,
-            "blur" : true,
-            "gradient" : true
+        "image" : "ec:textures/gui/title/background/fence-cat.png",
+              "mode" : "stretch"
         }
     }
 }
