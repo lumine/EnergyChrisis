@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-09-23T22:47:48.307411Z",
+  "lastPlayed": "2017-09-23T23:09:42.1582931Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -439,6 +439,21 @@
       "fileSize": 4598
     },
     {
+      "folderName": "CoFHCore-[1.7.10]3.1.4-329.jar",
+      "fingerprint": 355283960,
+      "fileDateHash": 768607870,
+      "sectionID": 6,
+      "individualFingerprints": [
+        355283960
+      ],
+      "status": 1,
+      "timestamp": "2017-09-18T02:29:04.5492177Z",
+      "lastWriteTimeUtc": "2017-09-16T21:18:41.1966102Z",
+      "queryTimestamp": "2017-09-23T22:14:48.286509Z",
+      "fileCount": 1,
+      "fileSize": 1230511
+    },
+    {
       "folderName": "NEI",
       "fingerprint": 3899382270,
       "fileDateHash": 3176545275,
@@ -456,21 +471,6 @@
       "queryTimestamp": "2017-09-23T22:14:48.286509Z",
       "fileCount": 2,
       "fileSize": 0
-    },
-    {
-      "folderName": "CoFHCore-[1.7.10]3.1.4-329.jar",
-      "fingerprint": 355283960,
-      "fileDateHash": 768607870,
-      "sectionID": 6,
-      "individualFingerprints": [
-        355283960
-      ],
-      "status": 1,
-      "timestamp": "2017-09-18T02:29:04.5492177Z",
-      "lastWriteTimeUtc": "2017-09-16T21:18:41.1966102Z",
-      "queryTimestamp": "2017-09-23T22:14:48.286509Z",
-      "fileCount": 1,
-      "fileSize": 1230511
     },
     {
       "folderName": "buildcraft-7.1.22-core.jar",
@@ -503,6 +503,21 @@
       "fileSize": 667443
     },
     {
+      "folderName": "butterflymania-1.7.10-1.3.2.jar",
+      "fingerprint": 2850595622,
+      "fileDateHash": 1013835833,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2850595622
+      ],
+      "status": 1,
+      "timestamp": "2016-10-03T19:59:11.5789966Z",
+      "lastWriteTimeUtc": "2016-07-24T03:32:00.7760803Z",
+      "queryTimestamp": "2017-09-23T22:14:48.2875125Z",
+      "fileCount": 1,
+      "fileSize": 4114163
+    },
+    {
       "folderName": "mapwriter_sp_worlds",
       "fingerprint": 95445060,
       "fileDateHash": 3782727617,
@@ -523,21 +538,6 @@
       "queryTimestamp": "2017-09-23T22:14:48.286509Z",
       "fileCount": 1,
       "fileSize": 0
-    },
-    {
-      "folderName": "butterflymania-1.7.10-1.3.2.jar",
-      "fingerprint": 2850595622,
-      "fileDateHash": 1013835833,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2850595622
-      ],
-      "status": 1,
-      "timestamp": "2016-10-03T19:59:11.5789966Z",
-      "lastWriteTimeUtc": "2016-07-24T03:32:00.7760803Z",
-      "queryTimestamp": "2017-09-23T22:14:48.2875125Z",
-      "fileCount": 1,
-      "fileSize": 4114163
     },
     {
       "folderName": "NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
@@ -660,21 +660,6 @@
       "fileSize": 284208
     },
     {
-      "folderName": "coroutil-1.7.10-1.1.6.jar",
-      "fingerprint": 3961648605,
-      "fileDateHash": 1510069,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3961648605
-      ],
-      "status": 1,
-      "timestamp": "2017-09-18T02:29:04.564202Z",
-      "lastWriteTimeUtc": "2017-09-16T21:18:38.9493473Z",
-      "queryTimestamp": "2017-09-23T22:14:48.2875125Z",
-      "fileCount": 1,
-      "fileSize": 1297035
-    },
-    {
       "folderName": "TorchTools-1.7.10-1.2.0.27.jar",
       "fingerprint": 2683412681,
       "fileDateHash": 300442235,
@@ -688,6 +673,21 @@
       "queryTimestamp": "2017-09-23T22:14:48.2875125Z",
       "fileCount": 1,
       "fileSize": 5105
+    },
+    {
+      "folderName": "coroutil-1.7.10-1.1.6.jar",
+      "fingerprint": 3961648605,
+      "fileDateHash": 1510069,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3961648605
+      ],
+      "status": 1,
+      "timestamp": "2017-09-18T02:29:04.564202Z",
+      "lastWriteTimeUtc": "2017-09-16T21:18:38.9493473Z",
+      "queryTimestamp": "2017-09-23T22:14:48.2875125Z",
+      "fileCount": 1,
+      "fileSize": 1297035
     },
     {
       "folderName": "fastcraft-1.23.jar",
